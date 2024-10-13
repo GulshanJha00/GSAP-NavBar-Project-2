@@ -47,6 +47,6 @@ If you reload the website you will see that all the code starts to execute itsel
 
 Step 9:- 
 
-in css make #nav i and #full i as cursor pointer so that your mouse points when you hover over it. Now inside script.js type tl.pause(). It will cause timeline to not execute while reload. Now make a query selector selecting #nav i give it a variable menu. Similarly make a cross variable selecting query "#full i". Now add eventListener in var menu with event "click", pass function and inside function add tl.play(). Now what does tl.play() do? (chatgpt explain it propoerly). Now we have another variable cross, add eventListener click and pass fucntion, inside that function give tl.reverse() (chatgpt explain this too).
+in css make #nav i and #full i as cursor pointer so that your mouse points when you hover over it. Now inside script.js type tl.pause(). It will cause timeline to not execute while reload. Now make a query selector selecting #nav i give it a variable menu. Similarly make a cross variable selecting query "#full i". Now add eventListener in var menu with event "click", pass function and inside function add tl.play(). Now what does tl.play() do? (chatgpt e xplain it propoerly). Now we have another variable cross, add eventListener click and pass fucntion, inside that function give tl.reverse() (chatgpt explain this too).
 
 And our animated navbar is ready to play with just 30 lines of javascript
