@@ -8,6 +8,6 @@ Take any image for background image of main. bg-size cover bg-position center. n
 
 Step 3:- 
 Make a #nav div inside #main with h2 lets say "Code Cluster" and one "MENU" icon from remix icon website i prefer this one 
+< i class="ri-menu-2-line" > < /i>
 
-(<i class="ri-menu-2-line"></i> )
 
